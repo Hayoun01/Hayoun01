@@ -2,7 +2,7 @@
 <h3 align="center">A software engineering student</h3>
  <div align="center">
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/mhayyoun)](https://github.com/Hayoun01)
+[![mhayyoun's 42 stats](https://badge.mediaplus.ma/greenbinary/mhayyoun)](https://github.com/Hayoun01)
 
  </div>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
